@@ -30,4 +30,4 @@ sed -i 's/luci-app-ssr-plus //g' include/target.mk
 sed -i 's/luci-app-vlmcsd //g' include/target.mk
 sed -i 's/luci-app-accesscontrol //g' include/target.mk
 sed -i 's/luci-app-nlbwmon //g' include/target.mk
-sed -i 's/luci-app-wol //g' include/target.mk
+#sed -i 's/luci-app-wol //g' include/target.mk
